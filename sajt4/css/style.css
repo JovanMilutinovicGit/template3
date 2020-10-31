@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heder .slika {
+    margin-left: 63px;
+    padding-top: 24px;
+}
+.heder .kontakt{
+    padding-top: 16px;
+}
+.heder .kontakt li {
+    list-style: none;
+    font-size: 13px ;
+}
+
+.heder h1{
+    padding-top: 12px;
+    color:white;
+}
+.heder{
+    background-color: #333333;
+}
+.heder .kontakt .sat {
+    color: #535353;
+}
+.heder .kontakt .poziv{
+    color: #535353;
+}
+.heder .kontakt li a{
+    color:white;
+}
+.heder .kontakt li a:hover{
+    text-decoration: none;
+
+}
+.heder2 .nav .home{
+    padding-right: 20px;
+}
+.heder2 .nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.heder2{
+    background-color: #f36638;
+}
+.heder2 .nav li a{
+   color:white;
+    text-decoration: none;
+}
+.heder2 .nav li a:hover{
+    color:#535353;
+}
+.heder2 .slikaPretrage{
+    margin-left: 388px;
+    margin-top: 21px;
+}
+.hero-section{
+    background-image: url("../slike/Would-you-like-to-be-an-auto-body-repair-technician.jpg");
+    background-size: cover;
+}
+.hero-section h2{
+    color: white;
+    padding-top: 90px;
+    font-size: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.hero-section h6{
+    color: white;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.hero-section a{
+    background-color:transparent;
+    border: 2px solid #f36638;
+    padding: 30px;
+    margin-left: 190px;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    border-radius: 4px;
+}
+.hero-section a:hover{
+    background-color:#f36638;
+    color:#535353;
+    text-decoration:none;
+}
+.hero-section{
+    padding-bottom: 343px;
+}
+
+.hero-section .slika{
+    background-color: #f36638;
+    padding-left:50px;
+    padding-right:50px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+.hero-section .slika h4{
+    padding-top: 20px;
+}
+
+
+.hero-section .slika{
+    display: block;
+    position: absolute;
+    bottom: -410px;
+}
+.our-services{
+    padding-bottom: 120px;
+}
+.our-services .slikaServis{
+    padding-top: 110px;
+}
+.our-services h2{
+    text-align: center;
+    color:#535353;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+.our-services h6{
+    text-align: center;
+    color:#535353;
+}
+.our-services h1{
+    padding-top: 150px;
+    text-align: center;
+    color: #f36638;
+    text-transform: uppercase;
+}
+.our-service2 {
+   background-color: #d9dce3;
+
+}
+.novo{
+    background-color:#f2f2f2;
+    padding-bottom: 50px;
+}
+.novo h3{
+    padding-top: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.novo h4{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.novo .prviRed{
+    padding-top: 30px;
+    margin-left: 70px;
+    list-style: none;
+    font-size: 14px;
+}
+.novo .prviRed li a:hover{
+    text-decoration: none;
+}
+.novo .prviRed li a{
+    color:#535353;
+}
+.novo .prviRed li a:before{
+    content: "";
+    display: inline-block;
+    margin-right: 2px;
+    background-image: url("../slike/icons8_more_than_16px.png");
+    background-size: cover;
+    width: 16px;
+    height: 16px;
+    background-position-y: 2px;
+}
+.novo .see{
+    color:white;
+    margin-left: 660px;
+    background-color: #333333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-radius: 6px;
+}
+.novo .see:hover{
+    text-decoration: none;
+    color:#f36638;
+}
+.about h1{
+    color:#f36638;
+    text-align: center;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+.about h2{
+    color: #535353;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+.about h6{
+    color: #535353;
+    text-align: center;
+    padding-bottom: 38px;
+}
+.about .readMore{
+    margin-left: 210px;
+    color:white;
+    background-color: #333333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-radius: 6px;
+}
+.about .readMore:hover{
+    text-decoration: none;
+    color:#f36638;
+}
+.about .slika{
+    margin-top: 90px;
+}
+.about{
+    padding-bottom: 100px;
+}
+.maintaining{
+    background-color: #d9dce3;
+}
+.maintaining h3{
+    padding-top: 50px;
+    text-align: center;
+    color:#f36638;
+}
+.maintaining h4{
+    text-align: center;
+    color: #535352;
+    padding-bottom: 30px;
+}
+.maintaining h6{
+    padding-top: 20px;
+    color: #f36638;
+    text-align: left;
+}
+.maintaining .tekst{
+    color: #535352;
+}
+.maintaining{
+    padding-bottom: 100px;
+}
+.testimonials .ts{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.testimonials .tt{
+    border-radius: 110px;
+    margin-top: 40px;
+    margin-left: 49px;
+}
+.testimonials h6{
+    padding-top: 20px;
+    text-align: center;
+}
+.testimonials h6:before{
+    margin-right: 2px;
+    width: 30px;
+    height: 30px;
+}
+.testimonials h5{
+    text-align: center;
+    font-weight: bold;
+}
+.footer{
+    background-color: #333333;
+    margin-top: 50px;
+}
+.footer h3{
+    color: white;
+    text-transform: uppercase;
+    font-size: 19px;
+    padding-top: 76px;
+    padding-bottom: 17px;
+}
+.footer h2{
+    color: white;
+    text-transform: uppercase;
+    padding-top: 66px;
+    padding-bottom: 15px;
+}
+.footer h6{
+    color: #535352;
+    font-size: 13px;
+}
+.footer .mejl{
+    color: #f36638;
+    font-size: 13px;
+}
+.footer .vreme{
+    color: #f36638;
+}
+.footer{
+    padding-bottom: 100px;
+}
+.footer2{
+    background-color: #f36638;
+    text-align: center;
+    padding: 3px;
+}
+.footer2 h6{
+    color: white;
+    font-size: 9px;
+    padding-top: 4px;
+}
+
+
+
